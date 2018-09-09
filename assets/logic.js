@@ -1,6 +1,6 @@
 $(function () {
 
-	// when we relaod all buttons gets add to the page
+	// when we relaod all buttons get added to the page
 	populateButtons(searchArray, "searchButton", "#buttonsArea");
 	console.log("page loaded");
 })
