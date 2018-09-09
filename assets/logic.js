@@ -37,7 +37,7 @@ $(document).on("click", ".searchButton", function () {
 	var type = $(this).data("type");
 	console.log(type);
 
-	var queryURL = "http://api.giphy.com/v1/gifs/search?q=" + type + "&api_key=VDI1IDJjdm7DGBpfMAc58F85a37aDulQ&limit=10";
+	var queryURL = "https://api.giphy.com/v1/gifs/search?q=" + type + "&api_key=VDI1IDJjdm7DGBpfMAc58F85a37aDulQ&limit=10";
 
 
 	// API call
