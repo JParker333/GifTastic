@@ -6,7 +6,7 @@ $(function () {
 })
 
 // list of cartoons
-var searchArray = ["Bob's Burgers", "South Park", "F is for family", "Daria", "Rick and Morty", "American Dad", "Family Guy"];
+var searchArray = ["Bob's Burgers", "South Park", "F is for family", "Daria", "Rick and Morty", "American Dad", "Family Guy", "King of the Hill"];
 
 // function to populate buttons
 function populateButtons(searchArray, classToAdd, areaToAddTo) {
