@@ -12,6 +12,8 @@ Select a pre existing gif button to see aesome gif's or create your own button w
 * [HTML](https://html.com/)-HTML
 * [Jquery](https://jquery.com/) - JQuery
 * [Javascript](https://www.javascript.com/) - Javascript
+* [AJAX](https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX)-AJAX
+* [API](https://api.giphy.com/v1/gifs/search?q=) - Giphy API
 
 
 ## Authors
